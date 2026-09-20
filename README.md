@@ -73,7 +73,23 @@ The project uses multiple related tables, including:
 - City Dimension
 
 Relationships and filter directions were designed to support cross-page analysis while avoiding ambiguous filter paths.
+## SQL Analysis
 
+The SQL part of this project includes business-focused queries written in MySQL to analyze the underlying food-delivery data.
+
+The analysis covers:
+
+- Overall orders, customers, restaurants, and revenue
+- Top 10 restaurants by revenue
+- Revenue and order analysis by cuisine
+- Monthly revenue and order trends
+- Top 3 restaurants in each city using ranking
+
+SQL concepts used include **JOINs, GROUP BY, aggregate functions, date functions, CTEs, and window functions such as DENSE_RANK()**.
+
+The complete SQL analysis is available in:
+
+`zomato_analytics_queries.sql`
 ## Tools & Technologies
 
 - **MySQL** – data storage and SQL analysis
