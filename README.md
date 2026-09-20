@@ -5,6 +5,9 @@ An end-to-end data analytics project built using **MySQL, Power BI, Power Query,
 The goal of this project was to work with a realistic food-delivery business scenario and turn relational data into an interactive dashboard that can be used to explore orders, revenue, customers, restaurants, and delivery performance.
 
 > **Note:** This is an independent portfolio project created for learning and demonstration purposes. The dataset is synthetic and is not official Zomato data.
+## Dashboard Preview
+
+![Zomato Analytics Dashboard](overview-dashboard.png)
 
 ## Project Overview
 
