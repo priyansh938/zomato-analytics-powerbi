@@ -9,6 +9,18 @@ The goal of this project was to work with a realistic food-delivery business sce
 
 ![Zomato Analytics Dashboard](overview-dashboard.png)
 
+### Customers Dashboard
+
+![Customers Dashboard](customers.png)
+
+### Restaurants Dashboard
+
+![Restaurants Dashboard](restaurants.png)
+
+### Delivery Dashboard
+
+![Delivery Dashboard](delivery.png)
+
 ## Project Overview
 
 The project uses a synthetic dataset containing **60,000 orders** along with customer, restaurant, payment, delivery, review, food-item, and delivery-partner data.
